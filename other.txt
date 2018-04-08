@@ -1,0 +1,2 @@
+ git pull origin master 
+ pour recuperer en local les derniéres modifivcations de repo git 
